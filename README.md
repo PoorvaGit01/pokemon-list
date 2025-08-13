@@ -4,6 +4,9 @@ A modern, responsive React application built with Next.js and TypeScript that ex
 
 ![Pokédex Explorer]
 
+## Vercel Url
+`https://pokemon-list-virid-six.vercel.app/pokemon`
+
 ## 🚀 Features
 
 ### Core Functionality
